@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm <span style="color:#00C9A7;">Thunga Nithin Yadav</span>!</h1>
 
 <p align="center">
-  💻 Aspiring Software Developer | 🎓 CSE Final Year | 🚀 Building real-world web apps <br>
+  💻 Software Developer | 🎓 Computer Science Graduate | 🚀 Passionate about Full Stack & AI/ML <br>
   📫 Email: <a href="mailto:thunganithinyadav567@gmail.com">thunganithinyadav567@gmail.com</a>
 </p>
 
@@ -9,17 +9,19 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Full Stack Web Development & Machine Learning&AI**
-- 🧠 Working on projects that combine tech + wellness
-- 🌐 Created: [Mental Wellness Tracker](https://thunganithin.github.io/mental-wellness-tracker/)
-- 🎯 Goal: Land my first software developer job and grow as a tech professional
+- ✅ Completed **B.E. in Computer Science Engineering**  
+- 🌱 Continuously learning **Full Stack Web Development** and **Machine Learning & AI**
+- 🧠 Passionate about building meaningful, scalable applications
+- 🌐 Creator of [Mental Wellness Tracker](https://thunganithin.github.io/mental-wellness-tracker/)
+- 🎯 Goal: Join a forward-thinking tech company and grow as a developer
+- 💬 Always open to collaboration, mentorship, and learning opportunities
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,bootstrap,git,github,mysql,vscode" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,bootstrap,react,nodejs,git,github,mysql,mongodb,vscode" alt="Tech Skills" />
 </p>
 
 ---
@@ -46,7 +48,17 @@
 
 ---
 
-### 🔥 Quote to Live By
+### 🧠 Projects
+
+- 🔹 [Mental Wellness Tracker](https://thunganithin.github.io/mental-wellness-tracker/) – A web app to monitor mental health
+- 🔹 [Project Title 2](#) – *(Add another project here with link and 1-line description)*
+- 🔹 [Project Title 3](#) – *(Add one more here)*
+
+---
+
+### 💬 Quote to Live By
 
 > “Code with purpose, build with passion.”
+
+---
 
