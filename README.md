@@ -18,10 +18,21 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (with 3D Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,bootstrap,react,nodejs,git,github,mysql,mongodb,vscode" alt="Tech Skills" />
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" title="Java" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" title="Python" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" title="HTML" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" title="CSS" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" title="JavaScript" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50" title="Bootstrap" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50" title="React" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" title="Node.js" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="50" title="Git" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="50" title="GitHub" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" title="MySQL" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="50" title="VS Code" />
 </p>
 
 ---
@@ -59,6 +70,3 @@
 ### 💬 Quote to Live By
 
 > “Code with purpose, build with passion.”
-
----
-
